@@ -5,7 +5,7 @@
 <!--*nbeamer3/nbeamer3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on building out a new data warehouse :snowflake: and dashboard reporting 📊 overhaul with my company. 
+- 🔭 I’m currently working on building out a new data warehouse and dashboard reporting overhaul with my company. 
 - 🌱 I’m currently learning Python. 
 - 🤔 I’m looking forward to getting started with GitHub and contributing to open source.
 - 😄 Pronouns: She/Her/Dude
